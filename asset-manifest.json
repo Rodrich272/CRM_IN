@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/crm_in/static/css/main.f2234e8c.css",
+    "main.js": "/crm_in/static/js/main.bf6d9a19.js",
+    "static/js/453.7a8b119d.chunk.js": "/crm_in/static/js/453.7a8b119d.chunk.js",
+    "static/media/primeicons.svg": "/crm_in/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/Fondo_Edificios}.webp": "/crm_in/static/media/Fondo_Edificios}.adba263bb0761745d215.webp",
+    "static/media/primeicons.eot": "/crm_in/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/crm_in/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/crm_in/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/crm_in/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/crm_in/index.html",
+    "main.f2234e8c.css.map": "/crm_in/static/css/main.f2234e8c.css.map",
+    "main.bf6d9a19.js.map": "/crm_in/static/js/main.bf6d9a19.js.map",
+    "453.7a8b119d.chunk.js.map": "/crm_in/static/js/453.7a8b119d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2234e8c.css",
+    "static/js/main.bf6d9a19.js"
+  ]
+}
