@@ -1,0 +1,52 @@
+/* Login.css */
+
+.login {
+    color: white;
+    background-image: url('/src/Img/Fondo_Edificios}.webp');
+    display: flex; /* Center button horizontally */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Fill viewport height */
+    background-color: #f0f0f0; /* Light gray background */
+    font-family: sans-serif; /* Generic sans-serif for readability */
+  }
+  
+  .desc {
+    text-align: center; /* Center text within the section */
+    margin-bottom: 2rem; /* Add some space below the heading */
+  }
+  
+  h1,
+  h2 {
+    margin: 0; /* Remove default margins for cleaner spacing */
+    font-weight: normal; /* Adjust heading weights for a more balanced look */
+  }
+  
+  h1 {
+    font-size: 2.5rem; /* Increase main heading size slightly */
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    color: white; /* Subdued text color */
+  }
+  
+  .btn-shine {
+    display: inline-block;
+  border-radius: 4px;
+  background-color: #8b2323;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+  }
+  
+  .btn-shine:hover {
+    background-color: #c0c0c0; /* Slightly darker blue on hover */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Subtle shadow on hover */
+  }
+  
